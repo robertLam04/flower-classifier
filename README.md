@@ -1,5 +1,5 @@
 # Image-Classification-Neural-Network
-Convolutional neural network to classify images daisies and dandelions
+Convolutional neural network to classify images of daisies and dandelions
 
 <div style="display: flex;">
     <img src="https://github.com/robertLam04/Image-Classification-Neural-Network/blob/main/daisy_example.jpg?raw=true" alt="Image 1" width="400" style="margin-right: 20px;">
