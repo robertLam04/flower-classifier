@@ -17,3 +17,7 @@ License: Public Domain
 ## **Model Architecture:**
 
 input ==> conv ==> relu ==> max pool ==> conv ==> relu ==> pool ==> fully connected ==> relu ==> fully connected ==> relu ==> fully connceted
+
+## **Training**
+
+
