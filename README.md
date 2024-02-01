@@ -3,7 +3,7 @@
   
 # **Dataset:**  
 
-Flowers Classification > raw
+Flowers Classification
 https://public.roboflow.ai/classification/flowers_classification
 Example Images:
 <div style="display: flex;">
