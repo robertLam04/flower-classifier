@@ -3,7 +3,6 @@
   
 ## **Dataset:**  
 
-Flowers Classification
 https://public.roboflow.ai/classification/flowers_classification <br>
 Example Images: <br>
 <div style="display: flex;">
@@ -14,10 +13,5 @@ Example Images: <br>
 Provided by [Alexander Mamaev](https://www.kaggle.com/alxmamaev/flowers-recognition)
 License: Public Domain
 
-## **Model Architecture:**
-
-input ==> conv ==> relu ==> max pool ==> conv ==> relu ==> pool ==> fully connected ==> relu ==> fully connected ==> relu ==> fully connceted
-
-## **Training**
 
 
