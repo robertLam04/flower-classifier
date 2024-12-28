@@ -1,7 +1,8 @@
 
-# Convolutional Neural Network to Classify Images of Daisies and Dandelions
+## Convolutional Neural Network to Classify Images of Daisies and Dandelions
+My first experience with machine learning!
   
-## **Dataset:**  
+### **Dataset:**  
 
 https://public.roboflow.ai/classification/flowers_classification <br>
 Example Images: <br>
